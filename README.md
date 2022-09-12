@@ -1,4 +1,4 @@
-# Edge-
+# Edge
 一个简易的小插件，用于快捷打开已保存标签页
 
 ![2](https://user-images.githubusercontent.com/95969192/189577194-6d95175b-8856-440a-b524-8ac00a8124ad.png)
